@@ -1,3 +1,7 @@
+create database db_pizzaria_legal
+
+use db_pizzaria_legal;
+
 create table tb_categorias (
 id bigint auto_increment primary key,
 categoria varchar(255),
