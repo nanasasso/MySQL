@@ -56,7 +56,7 @@ UPDATE tb_pizzas SET categoriaid = 4 and 1 WHERE id =7;
 UPDATE tb_pizzas SET categoriaid = 5 WHERE id = 9;
 UPDATE tb_produtos SET categoriaid = 6 WHERE id = 10;
 
-SELECT * FROM tb_pizzas WHERE nome LIKE "%ra%";
+SELECT * FROM tb_pizzas WHERE nome LIKE "%m%";
 
 SELECT nome, tb_categorias.categoria
 FROM tb_pizzas INNER JOIN tb_categorias 
