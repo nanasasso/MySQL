@@ -1,2 +1,2 @@
 # MySQL
-Exercício de banco de dados de um RH utilizando MySQL 
+Exercício variados de banco de dados em MySQL
